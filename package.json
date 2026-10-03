@@ -1,0 +1,12 @@
+{
+  "name": "login-form-demo",
+  "version": "1.0.0",
+  "description": "Simple login form demo with client and server-side validation, built to mimic Juice Shop's login page for a security exercise.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
